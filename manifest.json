@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyter",
+  "repo": "sphinxcontrib_github_alt",
+  "versions": [
+    {
+      "commit": "d53e47dba537ae17ebecd66e1d23ff05ad94cce3",
+      "parsed_at": "2026-10-21T21:55:50.065172+00:00",
+      "tag": "1.2",
+      "filetree": "filetree/d53e47dba537ae17ebecd66e1d23ff05ad94cce3.nq.gz",
+      "blobs": [
+        "blob/153c649661d5df79055be0fff5487293b1d886ec.nq.gz",
+        "blob/18bb6a146b2c0a3f9b7681321179af5f8898011a.nq.gz",
+        "blob/79217d56311e126134f7115479017384d9d54839.nq.gz",
+        "blob/f618a33792e38da2f59364377092da0743eda3bb.nq.gz",
+        "blob/80fbabd9abd682fba75cd4c94d6f8356bf7b6126.nq.gz",
+        "blob/2b20602611ae83f5c91811510f930a4991022024.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
