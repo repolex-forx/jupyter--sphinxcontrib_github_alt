@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter/sphinxcontrib_github_alt/commit/d53e47dba537ae17ebecd66e1d23ff05ad94cce3",
       "git:hexsha": "d53e47dba537ae17ebecd66e1d23ff05ad94cce3",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "1.2"
     },
     {
