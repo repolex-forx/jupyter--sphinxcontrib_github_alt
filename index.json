@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "sphinxcontrib_github_alt",
+  "versions": [
+    {
+      "commit": "d53e47dba537ae17ebecd66e1d23ff05ad94cce3",
+      "tag": "1.2",
+      "parsed_at": "2026-10-21T21:58:02.609701+00:00"
+    }
+  ]
+}
