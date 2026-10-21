@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/jupyter/sphinxcontrib_github_alt/commit/d53e47dba537ae17ebecd66e1d23ff05ad94cce3",
       "git:hexsha": "d53e47dba537ae17ebecd66e1d23ff05ad94cce3",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "1.2"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "1.2",
+      "repolex:parsedAt": "2026-10-21T21:58:02.530899+00:00"
     },
     {
       "@id": "https://repolex.ai/r/jupyter/sphinxcontrib_github_alt/commit/96648168cd011751e8302a971f1480b324954a5d",
